@@ -50,8 +50,11 @@ Typography: JetBrains Mono (Precision Code Font)
 
 📖 使用方式 | Getting Started
 Github page : https://kasimchang.github.io/SubFlow/ (直接開啟互動網頁)
+
 Step 1: Drag & Drop your .vtt files into the upload zone. (拖放 VTT 檔案至上傳區)
+
 Step 2: Preview content using sync-scroll for accuracy check. (利用同步滾動進行準確性檢查)
+
 Step 3: Click "Start Batch Conversion" and download the results. (點擊開始轉換並下載成果)
 
 ✍️ 作者 | Author
